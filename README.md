@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Snake animation]
+(https://github.com/adharshcb/adharshcb/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **adharshcb/adharshcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
